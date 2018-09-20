@@ -1,0 +1,27 @@
+{
+  "name": "mongo_migration_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvindh93/mongodb_migration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvindh93/mongodb_migration/issues"
+  },
+  "homepage": "https://github.com/arvindh93/mongodb_migration#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mocha": "^5.2.0",
+    "mongodb": "^3.1.6",
+    "mongoui": "^4.2.1"
+  }
+}
